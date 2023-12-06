@@ -52,6 +52,32 @@ Major: Computer Science
 
 - CDN: Content Delivery Network links for p5.js and its sound addon, ensuring efficient and reliable delivery of necessary libraries.
 
+## How to Run 
+
+Follow these steps to run the ASCII Video Renderer locally:
+
+1. Clone the Repository:
+
+```
+git clone https://github.com/your-username/ascii-video-renderer.git
+cd ascii-video-renderer
+```
+2. Install VS Code Extension (Optional):
+
+If you're using Visual Studio Code, consider installing the "p5.vscode" extension for improved p5.js support. Open VS Code and navigate to the Extensions view (`Ctrl + Shift + X`), then search for "p5.vscode" and install it.
+
+3. Launch Live Server:
+
+- Open the index.html file in Visual Studio Code.
+- If you have the "Live Server" extension installed, right-click on the index.html file and select "Open with Live Server" from the context menu.
+- Alternatively, you can use other methods to serve the project, such as Python's SimpleHTTPServer or any other static file server.
+
+4. Access the Application:
+
+- Open your web browser and navigate to the provided local server address (e.g., http://127.0.0.1:5500/index.html).
+- Give a permission to your browser to access your webcam
+- Experience the real-time transformation of your webcam feed into mesmerizing ASCII art!
+
 ## Troubleshooting 🛠️
 Please create a new [issue](https://github.com/i-am-nolan25/CSCI201-Skills-Assignment/issues/new).
 
