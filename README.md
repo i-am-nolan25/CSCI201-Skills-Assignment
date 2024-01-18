@@ -83,3 +83,6 @@ Please create a new [issue](https://github.com/i-am-nolan25/CSCI201-Skills-Assig
 
 ## Contact 📬
 For any inquiries, feedback, or collaboration opportunities, please feel free to reach out to me through my [email](nl020@bucknell.edu) or [LinkedIn](https://www.linkedin.com/in/naing-oo-lwin-nolan/).
+
+## Acknowledgement
+The project is a modified version of the existing YouTube tutorial by [The Coding Train](https://www.youtube.com/@TheCodingTrain).
